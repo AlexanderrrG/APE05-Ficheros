@@ -5,6 +5,6 @@ En esta carpeta se encuentran todos los scripts y archivos fuente desarrollados 
 **Archivos incluidos:**
 * Archivos `.cpp` con la lógica en C++.
 * Archivos `.java` con la estructura en Java.
-* Archivos `.psc` con el pseudocódigo para PSeInt.
+
 
 Todo el código fue estructurado aplicando Programación Orientada a Objetos (POO), métodos, e incluye los comentarios necesarios para explicar su funcionamiento.
