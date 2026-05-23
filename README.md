@@ -3,7 +3,8 @@
 Este repositorio contiene el desarrollo práctico de la guía APE 05 para la asignatura de Algoritmos y Lógica de Programación. El objetivo principal de estos ejercicios es aplicar los conceptos de Programación Orientada a Objetos (POO) para manipular archivos de texto plano (.txt) usando los lenguajes Java ☕ y C++ ⚙️.
 
 ## 👨‍💻 Datos del Estudiante
-* **Nombre:** Alexander Guamán
+* **Integrantes:** Alexander Guamán, Jhair Monar,Mateo Muyulema, Alejandro Villacres
+* 
 * **Carrera:** Ingeniería de Software 💻
 * **Universidad:** Universidad Técnica de Ambato (UTA) 🏛️
 * **Docente:** Ing. José Ruben Caiza
