@@ -4,7 +4,6 @@ Este repositorio contiene el desarrollo práctico de la guía APE 05 para la asi
 
 ## 👨‍💻 Datos del Estudiante
 * **Integrantes:** Alexander Guamán, Jhair Monar,Mateo Muyulema, Alejandro Villacres
-* 
 * **Carrera:** Ingeniería de Software 💻
 * **Universidad:** Universidad Técnica de Ambato (UTA) 🏛️
 * **Docente:** Ing. José Ruben Caiza
