@@ -1,0 +1,2 @@
+carro | Cant: 3 | Precio: $2.0 | Total: $6.0
+mueble | Cant: 1 | Precio: $231.0 | Total: $231.0
